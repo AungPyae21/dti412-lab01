@@ -26,3 +26,13 @@ Future Development Plan
 • Technical skills I want to improve: Advanced Cloud Architecture and Cybersecurity Testing
 • Technologies I want to learn: Docker, Kubernetes, React Native
 • Dream Job Position: Senior Full-Stack Developer / Technical Product Manager
+
+Semester Goals
+•Learn Django
+•Learn REST API Development 
+•Learn Cloud Deployment
+
+Portfolio Projects
+1.Student Management System
+2.Internship Management System
+3.Inventory Management System
